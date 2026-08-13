@@ -1,0 +1,26 @@
+Amina Rahman
+Kuala Lumpur, Malaysia
+amina.rahman@example.com | +60 12-345 6789
+https://linkedin.com/in/amina-rahman | https://github.com/amina-rahman
+
+SUMMARY
+Computer Science graduate focused on building accessible, reliable web applications and turning product requirements into clear user experiences.
+
+SKILLS
+TypeScript, JavaScript, React, HTML, CSS, REST APIs, Git, Python, Django, PostgreSQL
+
+PROJECTS
+Accessible Learning Dashboard
+- Built a responsive React and TypeScript dashboard for students to track coursework and deadlines.
+- Integrated REST API endpoints and added loading, empty, and error states.
+- Improved keyboard navigation and semantic form labels across the application.
+
+Community Services Portal
+- Developed reusable frontend components with React and CSS.
+- Collaborated through Git pull requests and wrote tests for core form behavior.
+- Diagnosed a slow search experience and reduced unnecessary API requests with debouncing and caching.
+
+EDUCATION
+University of Malaya
+Bachelor of Computer Science
+2022 - 2026

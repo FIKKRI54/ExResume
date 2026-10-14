@@ -22,17 +22,11 @@ It does not submit applications, guess personal declarations, or expose the API 
 - Native input/change events for React and ordinary HTML forms.
 - No automatic submission.
 
-## Install the finished local release
+## Quick install (Windows)
 
-On Windows, double-click `INSTALL_EXRESUME.cmd`. It opens the exact release folder and Chrome's extension page, and copies the folder path for you. Chrome requires one manual approval for any local extension: enable **Developer mode**, click **Load unpacked**, paste the copied path, and choose **Select Folder**.
+Build the extension (see below), then double-click `INSTALL_EXRESUME.cmd`. It opens the build folder and Chrome's extension page, and copies the folder path for you. Chrome requires one manual approval for any local extension: enable **Developer mode**, click **Load unpacked**, paste the copied path, and choose **Select Folder**.
 
-The folder Chrome needs is:
-
-```text
-D:\Project 1\Exresume\dist
-```
-
-Chrome requires this approval for local extensions. The packaged release is `release/exresume-1.4.2.zip`.
+The folder Chrome needs is the `dist` folder inside this repository.
 
 ## Build from source
 
